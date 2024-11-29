@@ -2,7 +2,7 @@
 - [ Burp Suit Pro ](https://github.com/KKBUGHUNTER/Software/blob/main/Burp-Suite.zip)
 - [ MS Office 13 ](https://github.com/KKBUGHUNTER/Software/blob/main/MS-Office-13.zip)
 - [ Oracle 11g Database - Lab Software](https://github.com/KKBUGHUNTER/Software/blob/main/oracle-DB-11g.zip)
-
+- [Quartus](https://github.com/kkbughunter/Software/blob/main/90_quartus_free.exe)
 
 ## Steps to Upload Large Files to `GitHub`
 
