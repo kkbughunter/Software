@@ -1,3 +1,4 @@
 Burp-Suite.zip filter=lfs diff=lfs merge=lfs -text
 MS-Office-13.zip filter=lfs diff=lfs merge=lfs -text
 oracle-DB-11g.zip filter=lfs diff=lfs merge=lfs -text
+90_quartus_free.exe filter=lfs diff=lfs merge=lfs -text
